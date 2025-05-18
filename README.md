@@ -83,9 +83,3 @@
 <img src="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=musthofa-kamaluddin&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
