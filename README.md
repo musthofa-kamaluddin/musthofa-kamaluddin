@@ -83,3 +83,13 @@
 <img src="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
+
+<div align="center" class="mt-6">
+  <a href="https://luddin.my.id" target="_blank">
+    <button class="bg-blue-500 text-white font-semibold px-6 py-3 rounded-lg hover:bg-blue-600 transition duration-300">
+      Visit My Website
+    </button>
+  </a>
+</div>
