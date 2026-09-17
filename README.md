@@ -1,11 +1,11 @@
-<h3 data-importer="text" align="left">Hi, I'm Musthofa Kamaluddin (Luddin)<br><br>IT Student at ITS | Web Developer & Cybersecurity Enthusiast</h3>
+<br clear="both">
+
+<h2 align="center">Hi 👋! My name is Musthofa Kamaluddin and I'm a Web Developer</h2>
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=musthofa-kamaluddin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=musthofa-kamaluddin&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -86,53 +86,44 @@
 
 ###
 
-<div data-importer="socials" align="left">
-  <a href="https://discord.com/users/1027486415321321502" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<div align="center">
+  <a href="https://youtube.com/@Lud_Dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://id.linkedin.com/in/musthofa-kamaluddin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://instagram.com/msthf.kml" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://musthofa-kamaluddin.medium.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <a href="https://discordapp.com/users/1027486415321321502" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/msthf.kml" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/musthofa-kamaluddin-8338812a1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=musthofa-kamaluddin.musthofa-kamaluddin&"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="activities" align="left" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@musthofa-kamaluddin/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@musthofa-kamaluddin/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@musthofa-kamaluddin/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@musthofa-kamaluddin/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@musthofa-kamaluddin/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@musthofa-kamaluddin/2" alt="Medium post 3"  />
+  <a href="https://medium.com/@musthofa-kamaluddin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo"  />
   </a>
 </div>
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+<div align="center">
+  <img src="[https://profile-counter.glitch.me/musthofa-kamaluddin/count.svg?](https://camo.githubusercontent.com/0e852f40bb517cd7050569350a28e329dde49c118de3df6b01093af0adf7013b/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6d757374686f66612d6b616d616c756464696e2e6d757374686f66612d6b616d616c756464696e26)"  />
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/musthofa-kamaluddin/musthofa-kamaluddin/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center" class="mt-6">
+  <a href="https://luddin.my.id" target="_blank">
+    <button class="bg-blue-500 text-white font-semibold px-6 py-3 rounded-lg hover:bg-blue-600 transition duration-300">
+      Visit My Website
+    </button>
+  </a>
+</div>
