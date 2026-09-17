@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Musthofa Kamaluddin and I'm a Web Developer</h2>
+<h2 data-importer="text" align="left">Hi, I'm Musthofa Kamaluddin (Luddin)<br><br>IT Student at ITS | Web Developer & Cybersecurity Enthusiast</h3>
 
 ###
 
@@ -106,8 +106,8 @@
 
 ###
 
-<div align="center">
-  <img src="[https://profile-counter.glitch.me/musthofa-kamaluddin/count.svg?](https://camo.githubusercontent.com/0e852f40bb517cd7050569350a28e329dde49c118de3df6b01093af0adf7013b/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6d757374686f66612d6b616d616c756464696e2e6d757374686f66612d6b616d616c756464696e26)"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=musthofa-kamaluddin.musthofa-kamaluddin&"  />
 </div>
 
 ###
@@ -118,12 +118,8 @@
 
 ###
 
-<br clear="both">
-
-<div align="center" class="mt-6">
-  <a href="https://luddin.my.id" target="_blank">
-    <button class="bg-blue-500 text-white font-semibold px-6 py-3 rounded-lg hover:bg-blue-600 transition duration-300">
-      Visit My Website
-    </button>
-  </a>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
+
+###
