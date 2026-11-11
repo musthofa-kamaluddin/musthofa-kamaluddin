@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi, I'm Musthofa Kamaluddin (Luddin)<br><br>IT Student at ITS | Web Developer & Cybersecurity Enthusiast</h3>
+<h2 data-importer="text" align="left">Hi, I'm Musthofa Kamaluddin (Kamal)<br><br>IT Student at ITS | Web Developer, Cybersecurity, & Robotics Enthusiast</h3>
 
 ###
 
